@@ -3,10 +3,12 @@ Honey Wheat Ale
 
 Base recipe / needs directions updated.
 
-- 5 # pale malt extract
-- 2 # honey
-- 1/2 # honey malt
-- 1/2 # carapils
-- 2 oz Saaz (3.1%) 60 min
-- 1 oz Saaz 5 min
-- Ferment with W.L. Britsh Ale Yeast
+| Qty    | Ingredient                    | Time     |
+|--------|-------------------------------|----------|
+|   2 Lb | Honey (no preservatives)      |          |
+|   5 Lb | Pale Malt Extract             |          |
+| 1/2 Lb | Honey Malt                    |          |
+| 1/2 Lb | Carapils Malt                 |          |
+|   2 Oz | Saaz Hops (3.1%)              |          |
+|   1 Oz | Saaz Hops                     | @ 60 min |
+|   1 Pkg| White Labs 'Britsh Ale' Yeast | @ 5  min |
